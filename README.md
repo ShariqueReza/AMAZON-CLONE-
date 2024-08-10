@@ -2,6 +2,12 @@
 ## Amazon Clone Project 
 
 This is a clone of Amazon web application inspired by the amazon website with all major functionalities such as browsing different product categories, adding products to cart, review cart items, delete/update cart items, managing shipping details, placing order and tracking items etc.The project is responsive and can be used on any device.
+
+## Cloudflare link
+[View Live](https://amazon-clone-project.pages.dev/)
+
+
+## Demonstration
  
 
 
