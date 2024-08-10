@@ -8,7 +8,7 @@ This is a clone of Amazon web application inspired by the amazon website with al
 
 
 ## Demonstration
- 
+https://github.com/user-attachments/assets/a578c8e1-b93a-496e-80a8-a1c82fa67b21
 
 
 ## Technologies Used
